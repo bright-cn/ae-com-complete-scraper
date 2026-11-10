@@ -1,0 +1,23 @@
+[
+  {
+    "product_id": "web-0494-4539-500",
+    "title": "Aerie Real Me High Waisted Legging",
+    "url": "https://www.ae.com/us/en/p/aerie-real-me-high-waisted-legging/web/0494-4539-500",
+    "brand": "Aerie",
+    "price": 44.95,
+    "currency": "USD",
+    "color": "Black",
+    "sizes_available": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.7,
+    "reviews_count": 3842,
+    "in_stock": true,
+    "category": "Leggings"
+  }
+]
